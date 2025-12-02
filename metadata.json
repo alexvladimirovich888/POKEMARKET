@@ -1,0 +1,5 @@
+{
+  "name": "PokeMarket",
+  "description": "A high-fidelity simulated NFT marketplace for trading Pokémon assets on the Solana blockchain. Features mock wallet connection, auctions, and a reactive UI.",
+  "requestFramePermissions": []
+}
